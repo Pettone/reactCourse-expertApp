@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing GifGridItem component Must to show component correctly 1`] = `
+<div
+  className="card animate__animated animate__bounce animate__delay-2s"
+>
+  <img
+    alt="Hi, I am a title"
+    src="https://www.url.com/image"
+  />
+  <p>
+    Hi, I am a title
+  </p>
+</div>
+`;
